@@ -16,4 +16,9 @@ Learned target="_blank" makes the link open into a new tab. It goes after the hr
  It is possible to do Pages/about.html but aparently the system can malfuction like that, so good practice for relative files is ./ before the directory
  I also noticed the color of the links change on the live preview from dark purple to brighter blue, seemingly signifying the link working properly.
 
- I can use changelog.md for an AI agent to update changes made in my files in real time with references to them and examples and insights.
+Day3:
+ I can use changelog.md for an AI agent to update changes made in my files in real time with references to them and examples and insights. May try it here.
+
+Day5:
+
+Learned about inline, internal and external css.
