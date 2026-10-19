@@ -22,3 +22,6 @@ Day3:
 Day5:
 
 Learned about inline, internal and external css.
+
+Day6: Going to try and link the stylesheet to eliminate the inline css for grey background for all pages.
+(Haven't figured it out yet. Maybe I have to put the <link> in every section? Do I have to make a section for the background color, and link that section? LOST)
