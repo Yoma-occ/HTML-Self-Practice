@@ -47,3 +47,4 @@ I had to go into every <a> and clasify it as a button. INSIDE its <>.
 Will be customizing the buttons a bit more. Next challenge will be to put the image into some kind of 
 container. Maybe I'll add a slew of fish pics to challenge myself with hover abilities and different css styles.
 (raw. No templates! or outside source styles!)
+Also, another challenge will be to add a form sheet.
