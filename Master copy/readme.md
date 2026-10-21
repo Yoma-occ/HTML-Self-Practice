@@ -26,4 +26,21 @@ Learned about inline, internal and external css.
 Day6: Going to try and link the stylesheet to eliminate the inline css for grey background for all pages.
 (Haven't figured it out yet. Maybe I have to put the <link> in every section? Do I have to make a section for the background color, and link that section? LOST)
 
-Just figured it out
+Just figured it out. 
+
+Next challenge is to get a button to go back to the home page, from both contact and about pages.
+Trying to get the button linked to the index.html is giving me trouble.
+
+Just learned about <button></button> needing javascript attributes, it cannot use href, which is HTML.
+I can make the link with HTML just fine, then STYLE it to LOOK like a button. I'm going to attempt that so I can get the hang of html and css.
+I'm pretty sure in order to do that I have to designate a class for all the buttons (can do inline css but, no) and style them in class.css.
+(Future reference I think it's best to name is styles.css not class.css).
+I had class spelt incorrectly...
+Ok I got it sorted out. Made the links look like buttons with some style.
+I had to go into every <a> and clasify it as a button. INSIDE its <>.
+-example-
+<a href="/index.html>" class="button">Home</a>
+                                    ^^^ see. Class goes inside the <a>
+Will be customizing the buttons a bit more. Next challenge will be to put the image into some kind of 
+container. Maybe I'll add a slew of fish pics to challenge myself with hover abilities and different css styles.
+(raw. No templates! or outside source styles!)

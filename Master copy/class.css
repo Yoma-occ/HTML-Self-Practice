@@ -10,6 +10,15 @@
 }
 
 body {
-    background-color: rgb(29, 20, 20);
+    background-color: rgb(107, 106, 106);
+}
+
+.button {
+    display: inline-block;
+    background-color: black;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    color: white;
 }
 /* This is External CSS. It is linked to the HTML file using the <link> element in the <head> section of the HTML document. */  
