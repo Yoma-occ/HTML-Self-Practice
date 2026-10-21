@@ -5,10 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="../class.css">
     <title>Document</title>
+    <style> /* The <style> injects a css block into this html file. Instead of using external .css */
+        p {             /* This is a natural css selector in itself. ALL PARAGRAPHS will have THIS style */
+            color: orange;  
+        }
+        
+        #PID {
+            background-color: black; /* To select an ID declaration, a hashtag # has to be used */
+        }
+
+        .TEXT {
+            border: solid orange;
+            background-color: black;  /* The class decleration has to be selected with a period. so .text*/ 
+            padding: auto;
+            font-size: 50px;
+        }
+    </style>
 </head>
 <body>
     <h1>Contact Page</h1>
     <p>If you have any questions or require assistance, please feel free to call 911 to get in contact with your local operator.</p>
+    <p id="PID">This paragraph has an ID decleration. </p> <!-- Linked in class.css with css selector <p id="PID"> -->
+    <p class="TEXT">This paragraph has a class decleration of TEXT.</p> 
     <a href="../index.html" class="button">Home</a>
 
 </body>

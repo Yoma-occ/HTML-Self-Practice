@@ -48,3 +48,5 @@ Will be customizing the buttons a bit more. Next challenge will be to put the im
 container. Maybe I'll add a slew of fish pics to challenge myself with hover abilities and different css styles.
 (raw. No templates! or outside source styles!)
 Also, another challenge will be to add a form sheet.
+Just learned how to inject css into the html, not inline, but similar to how it's structured in the .css, it's just in the metadata type thing, 
+    within the <head> at the top of the boilerplate. I make a <style> and input the customization within it </style></head>
