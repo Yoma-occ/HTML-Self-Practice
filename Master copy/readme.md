@@ -31,6 +31,9 @@ Just figured it out.
 Next challenge is to get a button to go back to the home page, from both contact and about pages.
 Trying to get the button linked to the index.html is giving me trouble.
 
+
+Day 6:
+
 Just learned about <button></button> needing javascript attributes, it cannot use href, which is HTML.
 I can make the link with HTML just fine, then STYLE it to LOOK like a button. I'm going to attempt that so I can get the hang of html and css.
 I'm pretty sure in order to do that I have to designate a class for all the buttons (can do inline css but, no) and style them in class.css.
